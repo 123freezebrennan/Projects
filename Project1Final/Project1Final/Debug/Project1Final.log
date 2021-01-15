@@ -1,0 +1,3 @@
+﻿  Project1Final.cpp
+C:\Users\asgch\OneDrive\Desktop\Projet 1 Final\Project1Final\Project1Final\Project1Final.cpp(14,27): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\asgch\OneDrive\Desktop\Projet 1 Final\Project1Final\Debug\Project1Final.exe for writing
