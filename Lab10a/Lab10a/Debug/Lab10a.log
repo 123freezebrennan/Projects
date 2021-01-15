@@ -1,0 +1,8 @@
+﻿  main.cpp
+  dynamicarray.cpp
+C:\Users\asgch\OneDrive\Desktop\C++ STUFF\Lab 10\Lab 10a\Lab10a\Lab10a\dynamicarray.cpp(27,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asgch\OneDrive\Desktop\C++ STUFF\Lab 10\Lab 10a\Lab10a\Lab10a\dynamicarray.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asgch\OneDrive\Desktop\C++ STUFF\Lab 10\Lab 10a\Lab10a\Lab10a\dynamicarray.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\asgch\OneDrive\Desktop\C++ STUFF\Lab 10\Lab 10a\Lab10a\Lab10a\dynamicarray.cpp(60,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab10a.vcxproj -> C:\Users\asgch\OneDrive\Desktop\C++ STUFF\Lab 10\Lab 10a\Lab10a\Debug\Lab10a.exe
